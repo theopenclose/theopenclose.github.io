@@ -1,0 +1,51 @@
+/* #################################### 
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Inconsolata', ;
+font-family: 'Nunito', sans-serif;
+
+
+(400 Normal, 700 Bold for all fonts - font-weight:)
+
+example:
+h1 {
+font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
+
+####################################### */
+
+/* ############  Typography  ############ */
+
+
+#coming_soon h1 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+font-size:100px;
+color: white;
+}
+
+#coming_soon h2 {
+font-family: 'Roboto Slab', serif;
+font-weight: 700;
+font-size:50px;
+color: white;
+}
+
+#coming_soon p {
+font-family: 'Roboto Slab', serif;
+font-weight: 400;
+font-size: 30px;
+color: white;
+}
+
+/* ############  General Layout  ############ */
+
+#coming_soon {
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;	
+
+}
+
+
+/* ## Whoa, dug a little deeper I see. Keep an eye out for August. ## */
