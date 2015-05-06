@@ -48,6 +48,18 @@ color: white;
 }
 
 
+@media only screen and (max-device-width: 640px) {
+	#coming_soon {
+		width: 540px;
+		margin: auto;
+	}
 
+	#coming_soon h1 {
+		font-size: 50px;
+	}
+	
+}
+	
+	
 
 /* ## Whoa, dug a little deeper I see. Keep an eye out for August. ## */
