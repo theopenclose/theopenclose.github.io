@@ -50,13 +50,14 @@ color: white;
 
 
 
-@media all and (max-width: 500px) {
+@media (max-width: 600px) {
 		
 		#coming_soon {
-		width: 500px;
+		width: 300px;
 		padding: 15px;
 		margin-left: auto;
 		margin-right: auto;
+		background-color: cyan;
 		}
 		
 		#coming_soon h1 {
