@@ -53,7 +53,9 @@ color: white;
 @media (min-width: 0px) and (max-width: 600px) {
 		
 		#coming_soon {
-		width: 400px
+		width: 400px;
+		margin-left: auto;
+		margin-right: auto;
 		}
 		
 		#coming_soon h1 {
