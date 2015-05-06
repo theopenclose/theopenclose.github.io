@@ -48,7 +48,7 @@ color: white;
 }
 
 
-@media @media only screen and (max-width: 640px), only screen and (max-device-width: 640px) {
+@media only screen and (max-width: 320px), only screen and (max-device-width: 320px) {
 	#coming_soon {
 		width: 300px;
 		margin: auto;
